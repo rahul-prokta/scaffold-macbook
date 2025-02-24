@@ -13,12 +13,10 @@ This scripts scaffolds the initial MacOS System for development
 * Oh-my-zsh
 * OSX Settings
 
-## Run the following command
+## Run the following command to start installation
 
 ```
-curl -sO https://raw.githubusercontent.com/rahul-prokta/scaffold-macbook/refs/heads/main/bootstrap.sh
-chmod +x bootstrap.sh
-./bootstrap.sh
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/rahul-prokta/scaffold-macbook/refs/heads/main/bootstrap.sh)"
 ```
 
 # Install Kitty & setup `Powerlevel10k` theme (Optional)
