@@ -16,6 +16,8 @@ This scripts scaffolds the initial MacOS System for development
 ## Run the following command
 
 ```
+curl -sO https://raw.githubusercontent.com/rahul-prokta/scaffold-macbook/refs/heads/main/bootstrap.sh
+chmod +x bootstrap.sh
 ./bootstrap.sh
 ```
 

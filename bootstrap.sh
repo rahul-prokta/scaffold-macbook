@@ -2,8 +2,8 @@
 
 set -o errexit
 
-REPO_URL=https://github.com/protiumx/.dotfiles.git
-SCAFFOLD_PATH="$HOME/scaffold"
+REPO_URL=https://github.com/rahul-prokta/scaffold-macbook.git
+SCAFFOLD_PATH="$HOME/scaffold-macbook"
 
 reset_color=$(tput sgr 0)
 
